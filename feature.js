@@ -1,1 +1,1 @@
-console.log('This feature is the best!!');
+console.log('This feature is the best!');
